@@ -1,9 +1,9 @@
 # Android Monero Miner
 
-Proof of concept using the xmrig miner inside an Android APK.
-Get the source at github: https://github.com/DongAoMainland/MoneroMiner.git
+Forked Proof of concept using the xmrig miner inside an Android APK.
+Get the original source at github: https://github.com/DongAoMainland/MoneroMiner.git
 
-Based on the latest binaries from xmrig(6.3.0) Which is based on the code from https://github.com/xmrig/xmrig.  
+Based on the code from https://github.com/xmrig/xmrig.  
 
 
 # Usage
@@ -12,8 +12,6 @@ This will currently only work on devices with ARM64 architecture.
 
 Install and run the app, enter your pool and wallet data, then press the start button
 to start mining or stop to stop mining.
-The prefilled wallet is mine, so if you try the app, just keep it and I earn, 
-ehm... next to nothing ;-)
 The help button will show xmrig's help output for convenience.
  
 As this is considered a proof of concept, only pool address, username, threads and max cup usage can be
@@ -27,7 +25,7 @@ The xmrig binary is copied to the app's internal directory along with its depend
 Then, the binary is started using the ProcessBuilder class, and the output is captured
 into the app's scrolling pane once each secons.
 
-Currently only arm64 binaries are included, and the app will refuse to work on 
+Only arm64 binaries are included, and the app will refuse to work on 
 other architectures like x86 or 32 bit devices. 
 
 # License
