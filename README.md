@@ -1,4 +1,4 @@
-# A Monero – A Monero Miner for Android
+# AMonero – Monero Miner for Android
 
 This MY adaption of a Forked Proof of concept using the xmrig miner inside an Android APK.
 
