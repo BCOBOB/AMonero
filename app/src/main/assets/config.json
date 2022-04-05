@@ -1,9 +1,9 @@
 {
-  "algo": "cryptonight",
+  "algo": null,
   "av": 0,
   "background": false,
   "colors": false,
-  "cpu-affinity": null,
+  "cpu-affinity": 4,
   "cpu-priority": 2,
   "donate-level": 0,
   "log-file": null,
@@ -12,7 +12,7 @@
   "retries": 5000,
   "retry-pause": 5,
   "safe": false,
-  "syslog": false,
+  "syslog": true,
   "threads": $threads$,
   "pools": [
         {
