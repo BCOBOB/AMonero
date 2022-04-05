@@ -33,7 +33,7 @@
         android:id="@+id/pool"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="pool.supportxmr.com:3333"/>
+        android:text="gulf.moneroocean.stream:10128"/>
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -59,7 +59,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
 
-        android:text="4A18FqzKr7yZeSg3dqDQKujgZpKh5KYAAJMcN5pssV4idbZgjH7Fi97Y1raCEGRa4dQXHdkssvgsSDhpZGCN9JHXDYFDjG1"/>
+        android:text="43zv7QGQq9fFpaNHxMgCZRiCqdhgMN3B55FTZiGa7KNySpFZRpeGXcqVtTt5VMRBeUC6Z5e9H5tdpA77hzfg9oewLPtRXVM"/>
 
     <LinearLayout
         android:layout_width="wrap_content"
